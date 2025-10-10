@@ -15,7 +15,7 @@
 
 ## Portfolio
 Here below is my portfolio
-[My portfolio](https://24chance.github.io/portfolio/)
+[My portfolio](https://cchancee.netlify.app/)
 
 
 
