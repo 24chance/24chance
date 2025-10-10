@@ -10,8 +10,6 @@
 ### Connect with Me
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/chance-karambizi-b98a01273/)
-- Whatsapp: [Whatsapp](https://yourwebsite.com](https://wa.me/0790293963))
-- Instagram: [IG](https://www.instagram.com/24none24)
 - 📫 How to reach me: karambizi2chance@gmail.com
 
 
