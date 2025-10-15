@@ -5,7 +5,7 @@
 
 
 ## ABOUT ME
- 👋 Hi again, "You could call me a passionate AI enthusiast and coding aficionado, navigating the digital realm armed with Python, HTML, and CSS. Powered by coffee, fueled by Linux, and forever in pursuit of the perfect code snippet. Here to turn bytes into bites of innovation, one line at a time!"
+ 👋 Hi again, "I am also a software engineer, UI/UX designer and an AI enthusiast. I develop mobile application as well as web applications. I also have experience in data science and machine learning!"
 
 ### Connect with Me
 
@@ -25,9 +25,9 @@ Here below is my portfolio
 Here are some of the technologies and tools I work with:
 
 * Programming Languages: JavaScript, Python
-* Web Development: HTML, CSS, React.js
-* Backend Development: Node.js
-* Database Management: SQL
+* Web Development: HTML, CSS, React.js, Next.js
+* Backend Development: Node.js, FastApi
+* Database Management: SQL, MongoDb, Sqlite, Postgresql
 * Version Control: Git, GitHub
 
 
